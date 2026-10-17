@@ -52,6 +52,6 @@ Pada tahap ini mempelajari bagaimanan cara menambahkan css selector.
 ---
 
 
-## 10. Kesimpulan
+## 5. Kesimpulan
 
 Pada praktikum ini saya mempelajari cara menggunakan dan mengaplikasikan CSS pada HTML.
