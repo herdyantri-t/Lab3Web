@@ -1,40 +1,40 @@
-nav {
-background: #20A759;
-color:#fff;
-padding: 20px;
-text-align: center;
-}
-nav a {
-color: #fff;
-text-decoration: none;
-padding:20px 40px;
-}
-nav .active,
-nav a:hover {
-background: #2e5b43;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
 }
 
-/* ID Selector */
-#intro {
-background: #418fb1;
-border: 5px solid #099249;
-min-height: 100px;
-padding: 10px;
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-size: 32px;
 }
-#intro h1 {
-text-align: center;
-border: 5;
-color: #fff;
+
+p {
+    color: #333333;
+    font-size: 16px;
+    text-align: justify;
+    line-height: 1.8;
 }
-/* Class Selector */
+
+nav {
+    background-color: green;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background-color: darkgreen;
+}
+
 .button {
-padding: 15px 20px;
-background: #bebcbd;
-color: #fff;
-display: inline-block;
-margin: 10px;
-text-decoration: none;
-}
-.btn-primary {
-background: #E42A42;
+    background-color: crimson;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
 }
